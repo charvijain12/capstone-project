@@ -84,3 +84,9 @@ Not full RAG, but efficient, fast, and accurate for policies.
 ---
 
 ## 📂 Project Structure
+project_root/ 
+  ├─ app.py 
+  ├─ policies/           # stored PDFs 
+  ├─ queries.csv         # auto-created 
+  ├─ .env                # contains GROQ_API_KEY 
+  └─ requirements.txt
